@@ -1,8 +1,8 @@
-# Chatbot Correios
+# Sônia ChatBot
 
 # Descrição
 
-A **CORA** é um assistente virtual para auxilia os servidores dos Correios. Ela possui uma interface interativa e amigável, permitindo que os atendentes façam perguntas e recebam respostas rápidas e assertivas. Desenvolvida com uma combinação de tecnologias front-end e back-end, Cora pode ser facilmente configurado para uso em diferentes plataformas.
+Sônia (Sônia – Sistema de Orientação e Navegação para a Inclusão e Apoio). Fornece informações precisas e rápidas sobre os serviços de atendimento à mulher em Pernambuco, com foco em segurança, direitos, e suporte em situações de violência.
 
 # Requisitos
 
@@ -40,9 +40,8 @@ Uma vez que o servidor esteja rodando, a interface do chatbot estará disponíve
 
 # Exemplos de perguntas que você pode fazer ao bot:
 
-- "Qual o horário de funcionamento dos Correios?"
-- "Quais são os tipos de entrega disponíveis?"
-- "Como rastrear uma encomenda?"
+Pergunta: Quais são os telefones de emergência para mulheres em Pernambuco?       
+Resposta: Para emergências ligue 190 (Polícia Militar)
 
 ## Estrutura do Projeto
 
