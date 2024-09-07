@@ -1,5 +1,7 @@
 # Sônia ChatBot
 
+
+
 # Descrição
 
 Sônia (Sônia – Sistema de Orientação e Navegação para a Inclusão e Apoio). Fornece informações precisas e rápidas sobre os serviços de atendimento à mulher em Pernambuco, com foco em segurança, direitos, e suporte em situações de violência.
@@ -47,5 +49,3 @@ Resposta: Para emergências ligue 190 (Polícia Militar)
 
 - **/public/**: Contém arquivos estáticos como imagens, ícones e estilos, incluindo o front-end e a lógica do chatbot.
 - **/server.js**: Configuração do servidor que lida com as requisições do chatbot e conecta com a API.
-# soniaChatBot
-# soniaChatBot
